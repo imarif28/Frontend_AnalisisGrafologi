@@ -43,9 +43,3 @@ flutter build apk --release
 ```
 File APK akan tersimpan di `build/app/outputs/flutter-apk/app-release.apk`
 
-## Konfigurasi Server
-URL server backend telah dikonfigurasi di `lib/providers/analysis_provider.dart`:
-```dart
-final String _baseUrl = 'http://130.211.231.136:8001';
-```
-Sesuaikan dengan alamat server backend Anda jika diperlukan.
