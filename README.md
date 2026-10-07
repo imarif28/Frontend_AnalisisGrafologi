@@ -10,6 +10,15 @@ Ini adalah aplikasi mobile Flutter untuk analisis kepribadian berbasis grafologi
 - Filter tampilan *bounding box* per kategori pola
 - Kebijakan privasi data terintegrasi dalam alur unggah
 
+## Documentation
+<div align="center">
+<img src="https://drive.google.com/uc?export=view&id=1aGOmg5ubQ0xmIW_XrVKIxW4aVVkQELjt" width="600" alt="Gambar1">
+<img src="https://drive.google.com/uc?export=view&id=1TgX20WwOmdn36AV0rOE6T4xX5GQlDU7H" width="600" alt="Gambar2">
+<img src="https://drive.google.com/uc?export=view&id=1QXGk0m3O6S4dvVf3XcfHfkadXTkLOFVN" width="600" alt="Gambar3">
+<img src="https://drive.google.com/uc?export=view&id=1a5TR7t16FngTJEGom1YYN_7Umx2clRVz" width="600" alt="Gambar4">
+<img src="https://drive.google.com/uc?export=view&id=1pQNR9T0Y6NOvJAoQwpOtweNS7ppKtfHH" width="600" alt="Gambar5">
+</div>
+
 ## Teknologi
 - **Framework**: Flutter (Dart)
 - **State Management**: Provider
