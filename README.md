@@ -14,15 +14,15 @@ Ini adalah aplikasi mobile Flutter untuk analisis kepribadian berbasis grafologi
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://drive.google.com/uc?export=view&id=1pHbMvZuJMo-CVKReL5PVFZZZWY3HFoIv" width="1060" alt="Gambar1"></td>
-      <td><img src="https://drive.google.com/uc?export=view&id=1gTGst-WufdDSARiyyh4cqWs4dKv2tXm1" width="1060" alt="Gambar2"></td>
-      <td><img src="https://drive.google.com/uc?export=view&id=1XWq7TYsfra0eAVEsa1UGNmS5_e6mwyUD" width="1060" alt="Gambar3"></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=1pHbMvZuJMo-CVKReL5PVFZZZWY3HFoIv" width="760" alt="Gambar1"></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=1gTGst-WufdDSARiyyh4cqWs4dKv2tXm1" width="760" alt="Gambar2"></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=1XWq7TYsfra0eAVEsa1UGNmS5_e6mwyUD" width="760" alt="Gambar3"></td>
     </tr>
   </table>
   <table>
     <tr>
-      <td><img src="https://drive.google.com/uc?export=view&id=1zCniBVQdSauG0UbkILDZ6gxxdVJLtSdA" width="1060" alt="Gambar4"></td>
-      <td><img src="https://drive.google.com/uc?export=view&id=1HhEl6GYojNMBOQ99f_z8W5DvSBvTEVoz" width="1060" alt="Gambar5"></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=1zCniBVQdSauG0UbkILDZ6gxxdVJLtSdA" width="760" alt="Gambar4"></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=1HhEl6GYojNMBOQ99f_z8W5DvSBvTEVoz" width="760" alt="Gambar5"></td>
     </tr>
   </table>
 </div>
