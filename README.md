@@ -21,8 +21,8 @@ Ini adalah aplikasi mobile Flutter untuk analisis kepribadian berbasis grafologi
   </table>
   <table>
     <tr>
-      <td><img src="https://drive.google.com/uc?export=view&id=1zCniBVQdSauG0UbkILDZ6gxxdVJLtSdA" width="220" alt="Gambar4"></td>
-      <td><img src="https://drive.google.com/uc?export=view&id=1HhEl6GYojNMBOQ99f_z8W5DvSBvTEVoz" width="220" alt="Gambar5"></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=1zCniBVQdSauG0UbkILDZ6gxxdVJLtSdA" width="360" alt="Gambar4"></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=1HhEl6GYojNMBOQ99f_z8W5DvSBvTEVoz" width="360" alt="Gambar5"></td>
     </tr>
   </table>
 </div>
