@@ -12,11 +12,15 @@ Ini adalah aplikasi mobile Flutter untuk analisis kepribadian berbasis grafologi
 
 ## Documentation
 <div align="center">
-<img src="https://drive.google.com/uc?export=view&id=1pHbMvZuJMo-CVKReL5PVFZZZWY3HFoIv" width="600" alt="Gambar1">
-<img src="https://drive.google.com/uc?export=view&id=1gTGst-WufdDSARiyyh4cqWs4dKv2tXm1" width="600" alt="Gambar2">
-<img src="https://drive.google.com/uc?export=view&id=1XWq7TYsfra0eAVEsa1UGNmS5_e6mwyUD" width="600" alt="Gambar3">
-<img src="https://drive.google.com/uc?export=view&id=1zCniBVQdSauG0UbkILDZ6gxxdVJLtSdA" width="600" alt="Gambar4">
-<img src="https://drive.google.com/uc?export=view&id=1HhEl6GYojNMBOQ99f_z8W5DvSBvTEVoz" width="600" alt="Gambar5">
+  <table>
+    <tr>
+      <td><img src="https://drive.google.com/uc?export=view&id=1pHbMvZuJMo-CVKReL5PVFZZZWY3HFoIv" width="160" alt="Gambar1"></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=1gTGst-WufdDSARiyyh4cqWs4dKv2tXm1" width="160" alt="Gambar2"></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=1XWq7TYsfra0eAVEsa1UGNmS5_e6mwyUD" width="160" alt="Gambar3"></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=1zCniBVQdSauG0UbkILDZ6gxxdVJLtSdA" width="160" alt="Gambar4"></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=1HhEl6GYojNMBOQ99f_z8W5DvSBvTEVoz" width="160" alt="Gambar5"></td>
+    </tr>
+  </table>
 </div>
 
 ## Teknologi
